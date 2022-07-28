@@ -63,7 +63,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"scene.json"
+                 "value":"scene.json#arrive-loge"
                 }],
          "type":"tilelayer",
          "visible":true,
